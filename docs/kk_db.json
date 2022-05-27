@@ -1,0 +1,26 @@
+{
+    "errorcode": "0",
+    "message": [
+        {
+            "GeoStatus": "1",
+            "ZipCode": "55551",
+            "StoreId": "93",
+            "UserAccessToken": "0",
+            "SecretQuestionID": 2,
+            "ErrorMessage": "Login",
+            "MemberId": "1",
+            "IsEmployee": true,
+            "FName": "kamlesh",
+            "LName": "Prajapati",
+            "LoyaltyCard": "4804524000",
+            "ActivaStatus": "1",
+            "ShopperID": "4804524000",
+            "storename": "3619 Stange Road, Ames, IA",
+            "StoreSettingID": 0,
+            "StoreMessageWeb": "",
+            "StoreMessageApp": "",
+            "IsAllowedPrefStore": 1,
+            "partnerstoreid": "7544b17c-580a-49dd-b3ad-70b4ea6fcd60"
+        }
+    ]
+}
