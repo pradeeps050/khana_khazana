@@ -1,5 +1,4 @@
-{
- "recipe":[
+"recipe":[
                 {
 					"id":"rep1",
 					"title":"मटर की चटपटी चाट - लखनऊ की खास रेसीपी",
@@ -30,5 +29,4 @@
 					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fsoya_chilli.png?alt=media&token=83a7701e-9e30-4aa2-a324-5d7d619257f2",
 					"desc":"सोयाबीन चिली एक ऐसी डिश है जो सभी सो पसंद आती है क्योंकि स्पाइसी खाना किसे पसंद नहीं आती |"
 				}
- ]   
-}
+ ]
