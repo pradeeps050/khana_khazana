@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">खाना खज़ाना</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_fav">Favourite</string>
+    <string name="rating">Rating</string>
+    <string name="share_app">Share</string>
+    <string name="cooking_steps">विधि</string>
+    <string name="error_msg_api">Something went wrong. Please try later</string>
+    <string name="internet_connection">Please check internet connection</string>
+    <string name="ingredient">आवश्यक सामग्री</string>
+    <string name="menu_notification">Notification</string>
+    <string name="feedback">Feedback</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="placeholder_image">Place Holder Image</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="default_notification_channel_id">recipe_channel</string>
+    <string name="default_notification_channel_name">recipe.apps.notifications</string>
+    <string name="notification">Notification</string>
+    <string name="no_internet_msg">Check internet connection and try again.</string>
+    <string name="no_internet">No Internet!!</string>
+    <string name="try_again">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_spalsh_screen">SpalshScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

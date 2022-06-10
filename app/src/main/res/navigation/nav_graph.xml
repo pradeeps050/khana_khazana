@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:label="@string/menu_home"
+        android:name="com.ps.khanakhazana.ui.home.HomeFragment"
+        tools:layout="@layout/fragment_home"/>
+    <fragment
+        android:id="@+id/fragmentFav"
+        android:label="@string/menu_fav"
+        android:name="com.ps.khanakhazana.ui.favourite.FavouriteFragment"
+        tools:layout="@layout/fragment_favourite"/>
+    <fragment
+        android:id="@+id/fragmentNotification"
+        android:label="@string/notification"
+        android:name="com.ps.khanakhazana.ui.notification.NotificationFragment"
+        tools:layout="@layout/fragment_favourite"
+        tools:ignore="DuplicateIds" />
+
+</navigation>

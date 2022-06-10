@@ -1,0 +1,38 @@
+
+ "recipe":[
+                {
+					"id":"rep1",
+					"title":"मटर की चटपटी चाट - लखनऊ की खास रेसीपी",
+					"doc":"matar_chaat",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fmatar_chaat.jpg?alt=media&token=e73fea94-b777-4c8d-8982-221b92390bfa",
+					"desc":"लखनऊ की खास रेसिपी मटर की चटपटी चाट का स्वाद शायद हर किसी को मालूम न हो तो आज हम मटर की इसी खास चाट के स्वाद से आप सभी को रुबरु कराने वाले हैं"
+				},
+				{
+				    "id":"rep2",
+					"title":"पिज़्ज़ा कुलचा सैन्डविच",
+					"doc":"pizza_kulcha_sandwich",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2FPizza%20Sandwich.jpg?alt=media&token=cce4155c-a15b-4205-b36b-9dc8a823370b",
+					"desc":"पिज्जा कुलचा सैंडविच सुबह के नाश्ते, शाम के स्नैक्स या हल्की फुल्की भूख समय एक लाजवाब रेसिपी है."
+				},
+				{
+				    "id":"rep3",
+					"title":"पनीर टिक्का",
+					"doc":"paneer_tikka",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fpaneer_tikka.jpg?alt=media&token=55456806-b603-4308-9103-e74bac426504",
+					"desc":"पनीर प्रेमियों के लिए लोकप्रिय चिकन टिक्का रेसिपी से एक अनुकूलित रेसिपी है।"
+				},
+				{
+				    "id":"rep4",
+					"title":"पालक पनीर पुलाव",
+					"doc":"palak_paneer_pulav",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fpalak_paneer_pulav.jpg?alt=media&token=be4fb2e7-22c8-4902-84f6-10385f969f94",
+					"desc":"अगर आप रोज के दाल, चावल और सब्जी खाते खाते बोर हो गए है तो आज मैं आपके लिए बहुत ही स्पेशल रेसिपी ले कर आयी हु | आप उन्ही सब्जियों का इस्तेमाल करके कुछ इंट्रेस्टिंग बना   सकते है |"
+				},
+				{
+				    "id":"rep5",
+					"title":"सोयाबीन चिली",
+					"doc":"soyabean_chilli",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fsoya_chilli.png?alt=media&token=83a7701e-9e30-4aa2-a324-5d7d619257f2",
+					"desc":"सोयाबीन चिली एक ऐसी डिश है जो सभी सो पसंद आती है क्योंकि स्पाइसी खाना किसे पसंद नहीं आती |"
+				}
+ ]   

@@ -1,0 +1,65 @@
+{
+ "categories":[
+	{
+		"id":"cat_1",
+		"name":"Sweets",
+		"icon":""  
+	},
+	{
+		"id":"cat_2",
+		"name":"Chinese and Street Food",
+		"icon":""  
+	},
+	{
+		"id":"cat_3",
+		"name":"Breakfast",
+		"icon":""  
+	},
+	{
+		"id":"cat_4",
+		"name":"Snacks",
+		"icon":""  
+	},
+	{
+		"id":"cat_5",
+		"name":"Paneer",
+		"icon":""  
+	},
+	{
+		"id":"cat_6",
+		"name":"Dal-Sabji",
+		"icon":""  
+	},
+	{
+		"id":"cat_7",
+		"name":"Paratha",
+		"icon":""  
+	},
+	{
+		"id":"cat_8",
+		"name":"Chutney-Achaar",
+		"icon":""  
+	}, 
+	{
+	
+		"id":"cat_9",
+		"name":"Baking",
+		"icon":""  
+	},
+	{
+		"id":"cat_10",
+		"name":"Festival Special",
+		"icon":""  
+	},
+	{
+		"id":"cat_11",
+		"name":"Special Recipes",
+		"icon":""  
+	},
+	{
+		"id":"cat_12",
+		"name":"Other",
+		"icon":""  
+	}
+	]
+}
