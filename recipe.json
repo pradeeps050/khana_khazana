@@ -1,6 +1,13 @@
 {
 "recipe":[
-                {
+	                       {
+				        "id":"rep6",
+					"title":"मिस्सी रोटी",
+					"doc":"missi_roti",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2FPizza%20Sandwich.jpg?alt=media&token=cce4155c-a15b-4205-b36b-9dc8a823370b",
+					"desc":"अगर आपको जोरो की भूख लगी है और आप पौष्टिक खाने के शौकीन है तो ये पोस्ट सिर्फ आपके लिए ही है | इस पोस्ट में मैं आपको बताउंगी कि मिष्टी रोटी कैसे बनाते है?"
+				},
+                		{
 					"id":"rep1",
 					"title":"मटर की चटपटी चाट - लखनऊ की खास रेसीपी",
 					"doc":"matar_chaat",
