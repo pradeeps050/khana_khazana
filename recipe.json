@@ -1,5 +1,12 @@
 {
 "recipe":[
+				{
+				        "id":"rep7",
+					"title":"नवरतन पुलाव",
+					"doc":"navratan_pulav",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fnavratan_pulav.jpg?alt=media&token=da095e39-fe90-4c0f-9dca-1b75e122fb7f",
+					"desc":"आप लोग बहुत टाइम नवरतन पुलाव के बारे में सुने होंगे और उसे बनाना भी बहुत मुश्किल है | तो ऐसा बिलकुल नहीं है. नवरतन पुलाओ को आप बड़े ही आसानी से घर पर बना सकते है."
+				},
 	                       {
 				        "id":"rep6",
 					"title":"मिस्सी रोटी",
