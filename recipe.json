@@ -1,5 +1,12 @@
 {
 "recipe":[
+	   			{
+				        "id":"rep10",
+					"title":"बेसन वाले करेले",
+					"doc":"besan_karela",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fbesan_crispy_karela_fry_recipe.jpg?alt=media&token=a5a829dc-4ac0-466d-b3e4-88bcebe10fe3",
+					"desc":"करेले खाना आम तौर पर लोग पसंद नहीं करते.  इस बात को बदलते हुए आज हम बनाने जा रहे हैं बेसन वाले करेले.  इन्हें हम 2 तरह से बनाएँगे, सूखे कुरकुरे करेले और ग्रेवी वाले करेले.  ये खाने में बहुत स्वादिष्ट होंगे और बिल्कुल भी कड़वे नहीं लगेंगे."
+				},
 				{
 				        "id":"rep9",
 					"title":"Bread Snacks",
