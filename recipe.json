@@ -1,6 +1,13 @@
 {
 "recipe":[
 	   			{
+				        "id":"rep11",
+					"title":"टमाटर हरी मिर्च की मसालेदार सब्जी",
+					"doc":"green_chilli_tomato",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fgreen_chilli_tomato_sabji.jpg?alt=media&token=1125c0ee-89e4-4a86-a016-2dd47adf8116",
+					"desc": "मिर्च टमाटर साग राजस्थान की मशहूर सब्जी है.  इसे टमाटर हरी मिर्च की मसालेदार सब्जी भी कह सकते हैं.  ये बहुत ही आसान विधि से झटपट बनकर तैयार हो जाती है.  इसे बनाने की सामग्री आपकी रसोई में ही मौजूद है.  इसका स्वाद एकदम चटपटा आचार जैसा आता है, तो आप भी टमाटर हरी मिर्च की स्वादिष्ट सब्जी बना कर इसके स्वाद का आनं
+				},
+				{
 				        "id":"rep10",
 					"title":"बेसन वाले करेले",
 					"doc":"besan_karela",
