@@ -1,6 +1,13 @@
 {
 "recipe":[
 				{
+				        "id":"rep13",
+					"title":"ब्रेड पकौड़ा चाट",
+					"doc":"bread_pakoda_chaat",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fbread_pakodaChaat.jpg?alt=media&token=6ab95370-7f20-4def-9b6d-aee188ab103e",
+					"desc": "कुरकुरी बाहरी परत, अंदर की फिलिंग के साथ, चटनी, सेव और भुजिया से भरी, यह स्नैक चाट बहुत ही स्वादिष्ट है! इसे आप कुछ ही मिनटों में बना सकते हैं."
+				},
+				{
 				        "id":"rep12",
 					"title":"पनीर 65",
 					"doc":"paneer_65",
