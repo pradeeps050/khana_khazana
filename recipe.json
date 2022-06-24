@@ -1,6 +1,13 @@
 {
 "recipe":[
 				{
+				        "id":"rep14",
+					"title":"5 मिनट मैंगो सब्जी",
+					"doc":"mango_sabji",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fmango_sabji.jpg?alt=media&token=ac91a947-2dbd-49c0-afad-72e0b467166e",
+					"desc": "आम सारे फलो का राजा कहा जाता है. कोई भी ऐसा व्यक्ति नहीं है जिसे आम पसंद न हो. यह एक सरल सब्ज़ी है जिसमे आम को मसालों के साथ पकाया जाता है. यह सब्ज़ी तीखी, मीठी और खट्टी होती है"
+				},
+				{
 				        "id":"rep13",
 					"title":"ब्रेड पकौड़ा चाट",
 					"doc":"bread_pakoda_chaat",
