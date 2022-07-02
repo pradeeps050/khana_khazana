@@ -1,6 +1,14 @@
 {
 "recipe":[
 				{
+				        "id":"rep15",
+					"title":"आलू से बना चटपटा नास्ता",
+					"doc":"potato_snacks",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fpotato_sanck.jpg?alt=media&token=42b5f6e0-b38a-4d9f-b749-6d826121c409",
+					"desc": "इस मानसून में बनाए आलू का झटपट बनने वाला नास्ता. ये खाने में बहुत मजेदार होता है और इसे जब आप खयेगें तो थोड़ा अलग ही मजा आएगा, क्योंकि इसे खाते समय आपको क्रिस्पी, मुलायम और चटपटा तीनो का मज़ा आएगा।"
+				},
+	
+				{
 				        "id":"rep14",
 					"title":"5 मिनट मैंगो सब्जी",
 					"doc":"mango_sabji",
