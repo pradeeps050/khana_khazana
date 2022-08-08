@@ -1,6 +1,13 @@
 {
 "recipe":[
 				{
+				        "id":"rep17",
+					"title":"राजस्थानी स्टाइल पापड़ की सब्जी",
+					"doc":"papadi",
+					"img":"https://firebasestorage.googleapis.com/v0/b/khana-khazana-b89ae.appspot.com/o/icons%2Fpapad-ki-sabji.png?alt=media&token=8b2654a3-5fdb-49d2-81e5-c4a4932da99b",
+					"desc": "पापड़ की सब्जी राजस्थान का फेमस सब्जियों में से एक है |पापड़ की सब्जी को बनाना बहुत की आसान होता है, और ये बहुत ही कम समय में बन जाती है | इसका टेस्ट हल्का खट्टापन पे होता है, क्योंकि हम इसमें दही टमाटर का इस्तेमाल करते है | "
+				},
+				{
 				        "id":"rep16",
 					"title":"सोयाबड़ी सॉफ्ट पैनकेक-खास नाश्ता",
 					"doc":"soyabean_pancake",
